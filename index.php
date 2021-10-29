@@ -2,6 +2,7 @@
 <html translate="no">
 
 <head>
+  <!-- XD -->
   <link rel="stylesheet" href="styles.css">
   <meta charset="utf-8" lang="en">
   <meta name="google" content="notranslate">
